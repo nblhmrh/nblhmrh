@@ -35,7 +35,6 @@
 [🚀 Projects](#-featured-projects) •
 [🏆 Achievements](#-achievements) •
 [💼 Experience](#-experience) •
-[📊 Stats](#-github-stats) •
 [🎯 Goals](#-2026-goals) •
 [📫 Contact](#-lets-connect)
 
@@ -120,7 +119,8 @@ technology, software development, data, and digital solutions.
 Built a foundation in programming, web development, UI/UX design,
 and software development through academic and practical projects.
 
-🏆 **5th Highest UKK Score in the Cohort**
+🏆 **5th Highest UKK Score in the Cohort** <br/>
+🏆 **6th Most Valuable Student**
 
 </td>
 
@@ -182,7 +182,7 @@ digital presence for the school.
 
 **Tech Stack**
 
-`Next.js` `Tailwind CSS`
+`Next.js` `Tailwind CSS` `Laravel` `MySQL`
 
 </td>
 
@@ -358,49 +358,74 @@ Problem Solving
                        │
                        ▼
                🚀 DIGITAL INNOVATION
+```
+</div>
 
+---
+## 🚀 DIGITAL INNOVATION
 </div>
 
 As a new Information Systems student, I'm currently focused on
 strengthening my technical foundation while exploring different
 areas within the field.
 
-📊 GitHub Stats
+---
+
+## 🔥 Contribution Streak
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nblhmrh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Nabila's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nblhmrh&layout=compact&hide_border=true&theme=transparent" alt="Nabila's Top Languages" />
+<img width="70%"
+src="https://streak-stats.demolab.com?user=nblhmrh&hide_border=true&theme=transparent"
+alt="Nabila's GitHub Streak" />
 
 </div>
-🔥 Contribution Streak
+
+---
+
+## 🎯 2026 Goals
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📚 Academic Goals
+
+- Build a strong foundation in Information Systems
+- Improve programming fundamentals
+- Explore different areas of technology
+- Learn through academic and personal projects
+
+</td>
+
+<td width="50%">
+
+### 🚀 Personal Goals
+
+- Build more meaningful projects
+- Improve UI/UX skills
+- Become more consistent on GitHub
+- Collaborate with students and developers
+- Build a stronger digital portfolio
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📈 My GitHub Journey
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nblhmrh&hide_border=true&theme=transparent" alt="Nabila's GitHub Streak" />
-
-</div>
-🎯 2026 Goals
-<table> <tr> <td width="50%">
-📚 Academic Goals
-Build a strong foundation in Information Systems
-Improve programming fundamentals
-Explore different areas of technology
-Learn through academic and personal projects
-</td> <td width="50%">
-🚀 Personal Goals
-Build more meaningful projects
-Improve UI/UX skills
-Become more consistent on GitHub
-Collaborate with students and developers
-Build a stronger digital portfolio
-</td> </tr> </table>
-📈 My GitHub Journey
-<div align="center">
+```text
              💻 SMK TELKOM MAKASSAR
                 Software Engineering
                        │
                        ▼
-                 🧑🏻‍💻 PROJECTS
+                  🧑🏻‍💻 PROJECTS
                        │
                        ▼
                     🎨 UI/UX
@@ -413,6 +438,7 @@ Build a stronger digital portfolio
                        │
                        ▼
                   🚀 WHAT'S NEXT?
+```
 </div>
 
 I'm using GitHub to document my learning journey,
@@ -422,7 +448,7 @@ as I grow as an Information Systems student.
 📫 Let's Connect
 <div align="center">
 Let's build something meaningful together! 🚀
-<br> <a href="https://github.com/nblhmrh"> <img src="https://img.shields.io/badge/GitHub-nblhmrh-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:nabilahhumairah@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" /> </a> </div>
+<br> <a href="https://github.com/nblhmrh"> <img src="https://img.shields.io/badge/GitHub-nblhmrh-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:nabilahhumairahar@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" /> </a> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=nblhmrh&style=flat-square&label=PROFILE+VIEWS" />
 
 <br><br>
@@ -435,4 +461,4 @@ Let's build something meaningful together! 🚀
 
 ⭐ Thanks for visiting my profile!
 
-</div>
+</div> 
