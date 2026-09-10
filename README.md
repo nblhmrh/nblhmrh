@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Nabila Humairah AR 👋
+# Hi, I'm Nabila Humairah AR 
 
-### 🎓 Information Systems Student @ Hasanuddin University
-### 💻 RPL Graduate · UI/UX Enthusiast · Web Developer
+###  Information Systems Student @ Hasanuddin University
+###  RPL Graduate · UI/UX Enthusiast · Web Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Information+Systems+Student;Software+Engineering+Graduate;UI%2FUX+Enthusiast;Web+Developer;Digital+Innovation+Explorer" />
 
@@ -29,20 +29,20 @@
 
 <div align="center">
 
-[👩🏻‍💻 About Me](#-about-me) •
-[🎓 Education](#-education) •
-[🛠️ Skills](#️-tech-stack) •
-[🚀 Projects](#-featured-projects) •
-[🏆 Achievements](#-achievements) •
-[💼 Experience](#-experience) •
-[🎯 Goals](#-2026-goals) •
-[📫 Contact](#-lets-connect)
+[ About Me](#-about-me) •
+[ Education](#-education) •
+[ Skills](#️-tech-stack) •
+[ Projects](#-featured-projects) •
+[ Achievements](#-achievements) •
+[ Experience](#-experience) •
+[ Goals](#-2026-goals) •
+[ Contact](#-lets-connect)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+##  About Me
 
 > **I'm Nabila — an Information Systems student with a background in
 > Software Engineering and a passion for technology, design, and innovation.**
@@ -56,17 +56,17 @@ to create useful and meaningful digital experiences.
 Currently, I'm continuing to develop my skills in **Information Systems,
 software development, UI/UX design, and digital innovation.**
 
-### 💡 What I'm Interested In
+###  What I'm Interested In
 
-- 🎨 UI/UX & Product Design
-- 🌐 Web Development
-- 💻 Software Development
-- 🧠 Information Systems
-- 🚀 Digital Innovation
-- 🤝 Project & Team Collaboration
+-  UI/UX & Product Design
+-  Web Development
+-  Software Development
+-  Information Systems
+-  Digital Innovation
+-  Project & Team Collaboration
 
 <details>
-<summary><b>✨ More About Me</b></summary>
+<summary><b> More About Me</b></summary>
 
 <br>
 
